@@ -8,7 +8,7 @@ Your first hands-on exercise with **git, GitHub, and VS Code**. Fix a small Pyth
 
 ## What you'll do
 
-The `fibonacci.py` module has **3 bugs**. Fix them. Then there's a **4th task** where you extend one of the functions.
+The `fibonacci.py` module has **3 bugs**. Fix all of them. Then there's a **4th task** where you extend one of the functions.
 
 Make **at least 4 commits** — one per task. I check the log.
 
