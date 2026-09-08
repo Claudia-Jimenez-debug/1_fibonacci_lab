@@ -4,6 +4,7 @@ Fix the bugs in fibonacci.py, then re-run.
 """
 
 from fibonacci import fib, fib_sequence, golden_ratio_approx
+import numpy
 
 
 PASS = 0
