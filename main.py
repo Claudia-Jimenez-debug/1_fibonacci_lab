@@ -7,7 +7,7 @@ from fibonacci import fib, fib_sequence, golden_ratio_approx
 import numpy
 
 
-PASS = 0
+PASS = 1
 TOTAL = 0
 
 
